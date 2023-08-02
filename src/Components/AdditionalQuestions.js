@@ -249,9 +249,7 @@ export default function AdditionalQuestions({ addQuestionData }) {
                                 </div>
 
                                 {/* Submit button */}
-                                <button type="submit" className="btn btn-success mx-3">
-                                    Next
-                                </button>
+                                <button type="submit" className="btn btn-success mx-3">Next</button>
                             </form>
 
                             {/* Progress indicators */}

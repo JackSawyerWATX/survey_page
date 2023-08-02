@@ -10,7 +10,7 @@ function ThankYouPage() {
                     <div className="card text-left h-100">
                         <div className="card-body my-3">
                             <h3>Thank You for your Response!</h3>
-                            <h6>You may close this tab now.</h6>
+                                <button type='submit' className='btn btn-success mx-3'>Next</button>
                         </div>
                     </div>
                 </div>
